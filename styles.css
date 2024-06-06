@@ -1,0 +1,20 @@
+#increaseButton {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+}
+
+#decreaseButton {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
+
+
+
+#content {
+    font-size: 16px; 
+}
